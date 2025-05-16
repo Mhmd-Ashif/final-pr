@@ -62,7 +62,7 @@ Tamper-Resistant-CCTV/
 
 ```bash
 step 1 clone the repo or download the repo
-git clone https://github.com/Mhmd-Ashif/Final-Year-Project.git
+git clone [https://github.com/Mhmd-Ashif/Final-Year-Project.git](https://github.com/Mhmd-Ashif/final-pr.git)
 cd tamper-resistant-cctv
 
 🔧 Backend Setup (Flask + Python)
@@ -108,3 +108,11 @@ flask-cors
 opencv-python
 numpy
 If you haven't created it yet, save the above as backend/requirements.txt.
+
+
+```
+# TLDR to run this code
+- run thread.py 
+- start both backend and frontend 
+- upload the video via frontend 
+- that's it
