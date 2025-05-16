@@ -112,7 +112,8 @@ If you haven't created it yet, save the above as backend/requirements.txt.
 
 ```
 # TLDR to run this code
-- run thread.py 
-- start both backend and frontend 
+- run thread.py
+- install dependencies for backend and for frontend just run *npm install*
+- start both backend *python app.py* and frontend *npm run dev* 
 - upload the video via frontend 
 - that's it
